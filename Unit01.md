@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA002: Precalculus I"
+course_description: "Precalculus I is designed to prepare you for Precalculus II, Calculus, Physics, and higher math and science courses. In this course, the main focus is on five types of functions: linear, polynomial, rational, exponential, and logarithmic. In accompaniment with these functions, you will learn how to solve equations and inequalities, graph, find domains and ranges, combine functions, and solve a multitude of real-world applications."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Functions** <span id="1"></span> 
 *Computing postage for a package, the gasoline consumption when driving
 at 65 mph, or how much money will be in a savings account after five

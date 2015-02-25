@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA002: Precalculus I"
+course_description: "Precalculus I is designed to prepare you for Precalculus II, Calculus, Physics, and higher math and science courses. In this course, the main focus is on five types of functions: linear, polynomial, rational, exponential, and logarithmic. In accompaniment with these functions, you will learn how to solve equations and inequalities, graph, find domains and ranges, combine functions, and solve a multitude of real-world applications."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Polynomial and Rational Functions** <span id="3"></span> 
 *Linear functions are used to measure many situations, but curved
 situations such as the path of a baseball hit into the air or

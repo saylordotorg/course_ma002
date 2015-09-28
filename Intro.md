@@ -164,3 +164,4 @@ recall what you have learned before taking the final exam.
 - [Unit 2](https://legacy.saylor.org/ma002/Unit02/)
 - [Unit 3](https://legacy.saylor.org/ma002/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma002/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA002/MA002-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA002/MA002-FinalExam-Answers.html)

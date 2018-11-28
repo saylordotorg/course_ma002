@@ -265,7 +265,7 @@ computations for x- and y-intercepts.*
     Colleges: MyOpenMath: “Quiz 7a: Sections 3.1–3.2”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 7a: Sections
-    3.1–3.2”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-7a-Section-3.1-FINAL.pdf)
+    3.1–3.2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-7a-Section-3.1-FINAL.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -273,7 +273,7 @@ computations for x- and y-intercepts.*
       
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 7a: Sections 3.1-3.2 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-7a-Section-3.1-Answer-Key-FINAL1.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-7a-Section-3.1-Answer-Key-FINAL1.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
@@ -424,7 +424,7 @@ values of a polynomial, read the information on pages 182 and 183.*
     Colleges: MyOpenMath: “Quiz 8: Sections 3.2–3.3”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 8: Sections
-    3.2–3.3”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-8-Section-3.2-FINAL1.pdf)
+    3.2–3.3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-8-Section-3.2-FINAL1.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -432,7 +432,7 @@ values of a polynomial, read the information on pages 182 and 183.*
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 8: Sections 3.2-3.3 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-8-Section-3.2-Answer-Key-FINAL1.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-8-Section-3.2-Answer-Key-FINAL1.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
@@ -549,7 +549,7 @@ function, read the information on pages 198 through 200.*
     Colleges: MyOpenMath: “Quiz 9: Section 3.4”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 9: Section
-    3.4”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-9a-Section-3.4-FINAL.pdf)
+    3.4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-9a-Section-3.4-FINAL.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -557,7 +557,7 @@ function, read the information on pages 198 through 200.*
         
      When you have finished, you may check your answers against the
     Saylor Foundation’s [“Quiz 9: Section 3.4 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-9a-Section-3.4-Answer-Key-FINAL1.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-3-Assessment-Quiz-9a-Section-3.4-Answer-Key-FINAL1.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  

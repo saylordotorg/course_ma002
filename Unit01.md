@@ -439,14 +439,14 @@ functions, read the information on pages 27 through 30.*
     Colleges: MyOpenMath: “Quiz 2 Toolkit: Section 1.2”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 2 Toolkit: Section
-    1.2”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-2-Toolkit-Section-1.2-FINAL1.pdf) (PDF)  
+    1.2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-2-Toolkit-Section-1.2-FINAL1.pdf) (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
     material for all of subunit 1.2, complete this quiz.  
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 2 Toolkit: Section 1.2 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-2-Toolkit-Section-1.2-Answer-Key-FINAL1.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-2-Toolkit-Section-1.2-Answer-Key-FINAL1.pdf) (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
         
@@ -942,14 +942,14 @@ read the information on pages 76 through 80.*
     Colleges: MyOpenMath: “Quiz 3a: Sections 1.3–1.5”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 3a: Sections
-    1.3–1.5”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-3a-Sections-1-3-1.5-FINAL1.pdf) (PDF)  
+    1.3–1.5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-3a-Sections-1-3-1.5-FINAL1.pdf) (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
     material for all of subunits 1.3–1.5, complete this quiz.  
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 3a: Sections 1.3-1.5 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-3a-Sections-1-3-1.5-Answer-Key-FINAL1.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-1-Assessment-Quiz-3a-Sections-1-3-1.5-Answer-Key-FINAL1.pdf) (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
         

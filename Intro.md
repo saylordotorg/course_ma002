@@ -89,7 +89,7 @@ computer;
  √    have competency in the English language;  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);  
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);  
   
  √    have access to a graphing calculator (e.g., TI-83 or TI-84); and  
   

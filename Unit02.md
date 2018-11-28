@@ -340,7 +340,7 @@ information on pages 119 and 120.*
     Colleges: MyOpenMath: “Quiz 4a: Sections 2.1–2.2”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 4a: Sections
-    2.1–2.2”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-4a-Sections-2.1-2.2-FINAL1.pdf)
+    2.1–2.2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-4a-Sections-2.1-2.2-FINAL1.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -348,7 +348,7 @@ information on pages 119 and 120.*
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 4a: Sections 2.1-2.2 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-4a-Sections-2.1-2.2-Answer-Key-FINAL1.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-4a-Sections-2.1-2.2-Answer-Key-FINAL1.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
@@ -453,7 +453,7 @@ through 132.*
     Colleges: MyOpenMath: “Quiz 5a: Section 2.3”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 5a: Section
-    2.3”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-5a-Section-2.3-FINAL.pdf)
+    2.3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-5a-Section-2.3-FINAL.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -461,7 +461,7 @@ through 132.*
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 5a: Section 2.3 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-5a-Section-2.3-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-5a-Section-2.3-Answer-Key-FINAL.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
@@ -684,7 +684,7 @@ algebra, read the information on pages 149 through 152.*
     Colleges: MyOpenMath: “Quiz 6: Sections 2.3–2.5”**
     Link: Washington State Board for Community & Technical Colleges:
     MyOpenMath: [“Quiz 6: Sections
-    2.3–2.5”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-6-Section-2.3-2.5-FINAL.pdf)
+    2.3–2.5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-6-Section-2.3-2.5-FINAL.pdf)
     (PDF)  
         
      Instructions: Once you have completed the readings and viewed the
@@ -692,7 +692,7 @@ algebra, read the information on pages 149 through 152.*
         
      Once you have completed this assessment, you may check your answers
     against the Saylor Foundation’s [“Quiz 6: Sections 2.3-2.5 Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-6-Section-2.3-2.5-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA002-Unit-2-Assessment-Quiz-6-Section-2.3-2.5-Answer-Key-FINAL.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 30 minutes.  
